@@ -30,7 +30,7 @@ githubわかんないーってひとは twitter(x) の dm　　
 
 リスポンスはtwitterのほうが早いです。たぶん
 
-## ん、コンタクト
+## コンタクト
 
 ・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
 
@@ -49,5 +49,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ---
 
 
-# cosplay_ruan-mei
+
  
